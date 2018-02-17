@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(assets\images\circles-and-roundabouts\circles-and-roundabouts.png.png);
+    background-color: teal;
     font-size: 18px;
     line-height: 34px;
     font-family: Arial, Helvetica, 'helvetica neue', sans-serif;
